@@ -182,6 +182,18 @@ docker exec -it realtime-streaming-pipeline-spark-master-1 spark-submit \
 - Connect Power BI to Redshift.
 - Build interactive dashboards and visualizations to derive insights from the data.
 
+#### **Example Flow of Dashboard:**
+
+| Section                  | Visual Type      | Key Insights                                |
+|--------------------------|------------------|---------------------------------------------|
+| Vehicle Overview         | Cards, KPIs      | Average Speed, Total Incidents, Total Distance Covered |
+| Journey on the Map       | Map              | Visualize the path with speed and weather overlays |
+| Emergency Details        | Table, Cards     | List of incidents with descriptions         |
+| Performance Trends       | Line Chart       | Speed trends over time                      |
+| Weather & Traffic Insights | Bar Chart, Images | Analyze weather patterns and traffic snapshots |
+
+- This design will ensure you deliver a highly interactive, visually appealing, and insightful Power BI dashboard! 
+
 
 
 
