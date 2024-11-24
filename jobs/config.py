@@ -1,4 +1,4 @@
 configuration = {
-    "AWS_ACCESS_KEY": "AKIAZQ3DPZUZRWTUV6WZ",
-    "AWS_SECRET_KEY": "eX+8cP1uWUsiFfsSOTkgTWyfcCB8l9O8SHNCMdVH",
+    "AWS_ACCESS_KEY": "Enter Your Access Key",
+    "AWS_SECRET_KEY": "Enter Your Secret Key",
 }
