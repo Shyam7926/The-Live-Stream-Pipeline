@@ -1,7 +1,7 @@
 # **The Live Stream Pipeline**  
 
 ### **Description**  
-Imagine tracking a car on its way from London to Birmingham in real-time. Sounds exciting, right? That's exactly what this project is about. Here's how it works:  
+Imagine tracking a car on its way from One Place to Another in real-time. Sounds exciting, right? That's exactly what this project is about. Here's how it works:  
 
 - **Collecting data**:  
   From IoT devices, we’ll capture live vehicle stats, GPS locations, emergency alerts, weather updates, and even camera footage.  
